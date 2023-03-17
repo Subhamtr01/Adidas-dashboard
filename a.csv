@@ -1,4 +1,4 @@
-Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units_Sold,Total_Sales,Operating Profit,Operating Margin,Sales_Method
+﻿Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units_Sold,Total_Sales,Operating Profit,Operating Margin,Sales_Method
 Foot Locker,1185732,2020,Northeast,New York,New York,Men's Street Footwear,50,"1,200","6,00,000","3,00,000",50%,In-store
 Foot Locker,1185732,2020,Northeast,Pennsylvania,Philadelphia,Women's Apparel,75,275,"2,06,250","61,875",30%,Outlet
 Foot Locker,1185732,2020,Northeast,New York,New York,Men's Street Footwear,47,336,"15,792","9,633",61%,Online
